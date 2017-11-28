@@ -6,9 +6,7 @@
 
 ## Objetivo do desafio
 
-O candidato deve desenvolver o front-end de um painel administrativo, o modelo fica a seu critério, surpreenda-nos. É um diferencial utilizar pré-compiladores para css e javascript, melhor ainda se utilizar webpack. Atualmente trabalhamos com VueJS, e utilizamos o framework Vuetify, caso seu teste seja feito utilizando este mesmo stack, será um diferencial muito positivo. A arquitetura e estrutura do projeto fica a seu critério, e dependendo do cargo pretendido, ela será avaliada. 
-
-O projeto deve comportar-se apenas como a apresentação de layout, não será levada em consideração nenhuma funcionalidade de back-end como CRUD, autenticação e etc. No projeto devem estar presentes as seguintes páginas:
+O candidato deve desenvolver o front-end de um painel administrativo, o modelo fica a seu critério, surpreenda-nos. A arquitetura e estrutura do projeto fica a seu critério, e dependendo do cargo pretendido, ela será avaliada. O projeto deve comportar-se apenas como a apresentação de layout, não será levada em consideração nenhuma funcionalidade de back-end como CRUD, autenticação e etc. No projeto devem estar presentes as seguintes páginas:
 
 - Login;
 - Dashboard;
